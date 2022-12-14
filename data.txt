@@ -1,0 +1,10 @@
+start   ; 0     ; Q J 
+end     ; 0     ;
+F       ; 3     ; end
+A       ; 4     ; end
+B       ; 7     ; F A
+Q       ; 2     ; A B U G
+G       ; 3     ; H F
+H       ; 2     ; F
+U       ; 1     ; F
+J       ; 6     ; end       
